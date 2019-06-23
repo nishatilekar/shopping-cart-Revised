@@ -1,0 +1,11 @@
+{"products":[
+{"pid":"1", "pname":"ABC", "qty":1, "price":11.00, "category":"A"},
+{"pid":"2", "pname":"DEF", "qty":1, "price":12.00, "category":"A"},
+{"pid":"3", "pname":"GHI", "qty":1, "price":13.00, "category":"A"},
+{"pid":"4", "pname":"JKL", "qty":1, "price":14.00, "category":"B"},
+{"pid":"5", "pname":"MNO", "qty":1, "price":15.00, "category":"B"},
+{"pid":"6", "pname":"PQR", "qty":1, "price":16.00, "category":"B"},
+{"pid":"7", "pname":"STU", "qty":1, "price":17.00, "category":"C"},
+{"pid":"8", "pname":"VWX", "qty":1, "price":18.00, "category":"C"},
+{"pid":"9", "pname":"YZA", "qty":1, "price":19.00, "category":"C"}
+]}
